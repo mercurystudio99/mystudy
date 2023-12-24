@@ -1,0 +1,26 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Admin Locations Translation
+    |--------------------------------------------------------------------------
+    */
+
+    'levels_list_page_title' => 'Levels List',
+    'level' => 'Level',
+    'levels' => 'Levels',
+    'name' => 'Name',
+    'new_page_lead' => 'You can create a new level.',
+    'page_lists_lead' => 'List of levels. You can edit or delete any row.',
+    'trends_lists_lead' => 'List of trend levels. You can edit or delete any row.',
+    'add' => 'Add',
+    'remove' => 'Remove',
+
+    'admin_levels' => 'Levels',
+    'admin_levels_list' => 'Levels List',
+    'admin_levels_create' => 'Levels Create',
+    'admin_levels_edit' => 'Levels Edit',
+    'admin_levels_delete' => 'Levels Delete',
+];

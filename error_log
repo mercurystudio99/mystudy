@@ -1,0 +1,20 @@
+[16-Nov-2023 10:27:22 UTC] PHP Warning:  require(/home/n1c7f25/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/n1c7f25/public_html/artisan on line 18
+[16-Nov-2023 10:27:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/n1c7f25/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n1c7f25/public_html/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/n1c7f25/public_html/artisan on line 18
+[16-Nov-2023 10:27:36 UTC] PHP Warning:  require(/home/n1c7f25/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/n1c7f25/public_html/artisan on line 18
+[16-Nov-2023 10:27:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/n1c7f25/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n1c7f25/public_html/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/n1c7f25/public_html/artisan on line 18
+[16-Nov-2023 10:28:04 UTC] PHP Warning:  require(/home/n1c7f25/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/n1c7f25/public_html/artisan on line 18
+[16-Nov-2023 10:28:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/n1c7f25/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n1c7f25/public_html/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/n1c7f25/public_html/artisan on line 18
+[16-Nov-2023 10:28:18 UTC] PHP Warning:  require(/home/n1c7f25/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/n1c7f25/public_html/artisan on line 18
+[16-Nov-2023 10:28:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/n1c7f25/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n1c7f25/public_html/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/n1c7f25/public_html/artisan on line 18
